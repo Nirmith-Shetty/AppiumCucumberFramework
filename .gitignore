@@ -1,0 +1,17 @@
+#ignoring .settings file
+/.settings
+
+#ignoring .projects file
+/.project
+
+#ignoring .projects file
+/.classpath
+
+#ignoring logs folder
+/logs
+
+#ignoring Server log folder
+/Android_Android Emulator
+
+#ignoring target folder
+/target
